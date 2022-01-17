@@ -16,7 +16,7 @@ Spec:
         env: prod
     spec:
       containers:
-      - image: C1
+      - image: C2
         name: dummyimage 
       nodeselector:
         app: winapp
